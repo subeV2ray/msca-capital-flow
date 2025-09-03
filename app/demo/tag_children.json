@@ -1,0 +1,296 @@
+{
+  "Document": [
+    "Product",
+    "ProductAddtnInfo",
+    "ProductResults"
+  ],
+  "ProductResults": [
+    "FbMsg",
+    "OrgCode",
+    "OrgQryID"
+  ],
+  "OrgQryID": [],
+  "FbMsg": [],
+  "OrgCode": [],
+  "Product": [
+    "BsicInf",
+    "PdctHdr",
+    "PmtCdtInf"
+  ],
+  "PdctHdr": [
+    "PdctBsicInf"
+  ],
+  "PdctBsicInf": [
+    "EntCertTp",
+    "FormTm",
+    "InstnTp",
+    "PdctTp",
+    "PdctVrsn",
+    "ProvideDt"
+  ],
+  "InstnTp": [],
+  "PdctTp": [],
+  "PdctVrsn": [],
+  "FormTm": [],
+  "EntCertTp": [],
+  "ProvideDt": [],
+  "BsicInf": [
+    "Id"
+  ],
+  "Id": [
+    "EntId",
+    "EntNm",
+    "FinAcctLSD"
+  ],
+  "EntNm": [],
+  "EntId": [
+    "EntIdCode",
+    "EntIdTp"
+  ],
+  "EntIdTp": [],
+  "EntIdCode": [],
+  "FinAcctLSD": [],
+  "PmtCdtInf": [
+    "AgtTx",
+    "CptlPrfl",
+    "DataLabl",
+    "InstnTx",
+    "IntraAgtTx",
+    "OthrTx",
+    "SameEnTx",
+    "ThrdPtyTx"
+  ],
+  "DataLabl": [],
+  "CptlPrfl": [
+    "CptCash",
+    "CptStat"
+  ],
+  "CptStat": [
+    "CptStatCounts",
+    "CptStatDtls"
+  ],
+  "CptStatCounts": [],
+  "CptStatDtls": [
+    "CcyTp",
+    "DalyAvrgOfMnth",
+    "DalyAvrgOfQrtr",
+    "EndofMnth",
+    "ExpndtrAmt",
+    "ExpndtrTxs",
+    "IncmAmt",
+    "IncmTxs",
+    "OcrdTm"
+  ],
+  "CcyTp": [],
+  "OcrdTm": [],
+  "IncmAmt": [],
+  "IncmTxs": [],
+  "ExpndtrAmt": [],
+  "ExpndtrTxs": [],
+  "DalyAvrgOfMnth": [],
+  "EndofMnth": [],
+  "DalyAvrgOfQrtr": [],
+  "CptCash": [
+    "CptCashCounts",
+    "CptCashDtls"
+  ],
+  "CptCashCounts": [],
+  "CptCashDtls": [
+    "CcyTp",
+    "DpstAmt",
+    "DpstIncmRate",
+    "DpstTxs",
+    "NetgRate",
+    "OcrdTm",
+    "WdrwAmt",
+    "WdrwExpndtrRate",
+    "WdrwTxs"
+  ],
+  "DpstAmt": [],
+  "DpstTxs": [],
+  "WdrwAmt": [],
+  "WdrwTxs": [],
+  "NetgRate": [],
+  "DpstIncmRate": [],
+  "WdrwExpndtrRate": [],
+  "InstnTx": [
+    "InstnTxCounts"
+  ],
+  "InstnTxCounts": [],
+  "SameEnTx": [
+    "SameEnTxCounts"
+  ],
+  "SameEnTxCounts": [],
+  "ThrdPtyTx": [
+    "ThrdPtyTxCounts"
+  ],
+  "ThrdPtyTxCounts": [],
+  "AgtTx": [
+    "AgtTxCounts"
+  ],
+  "AgtTxCounts": [],
+  "IntraAgtTx": [
+    "IntraAgtTxCounts",
+    "IntraAgtTxDtls"
+  ],
+  "IntraAgtTxCounts": [],
+  "IntraAgtTxDtls": [
+    "CcyTp",
+    "ExpndtrAmt",
+    "ExpndtrTxs",
+    "IncmAmt",
+    "IncmTxs",
+    "OcrdTm",
+    "TradTp",
+    "TxTp"
+  ],
+  "TxTp": [],
+  "TradTp": [],
+  "OthrTx": [
+    "BiggestAmt",
+    "DvdAmtRgn",
+    "OthrInstnTxCounts",
+    "OthrInstnTxDtls",
+    "TxnlCncntrtn",
+    "TxnlDstrbtn",
+    "TxnlStability",
+    "TxnlTrend",
+    "TxnlTrnvrRate"
+  ],
+  "OthrInstnTxCounts": [],
+  "OthrInstnTxDtls": [
+    "CcyTp",
+    "ExpndtrAmt",
+    "ExpndtrContraCounts",
+    "ExpndtrTxs",
+    "IncmAmt",
+    "IncmContraCounts",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "IncmContraCounts": [],
+  "ExpndtrContraCounts": [],
+  "BiggestAmt": [
+    "BiggestAmtCounts",
+    "BiggestAmtDtls"
+  ],
+  "BiggestAmtCounts": [],
+  "BiggestAmtDtls": [
+    "CcyTp",
+    "ExpndtrAmt",
+    "ExpndtrTxs",
+    "IncmAmt",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "TxnlCncntrtn": [
+    "TxnlCncntrtnCounts",
+    "TxnlCncntrtnDtls"
+  ],
+  "TxnlCncntrtnCounts": [],
+  "TxnlCncntrtnDtls": [
+    "CcyTp",
+    "CtrPty",
+    "ExpndtrTxs",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "CtrPty": [],
+  "TxnlDstrbtn": [
+    "TxnlDstrbtnCounts",
+    "TxnlDstrbtnDtls"
+  ],
+  "TxnlDstrbtnCounts": [],
+  "TxnlDstrbtnDtls": [
+    "AvrgExpndtrAmt",
+    "AvrgIncmAmt",
+    "CcyTp",
+    "CtrPtiesCountsOfExpndtr",
+    "CtrPtiesCountsOfIncm",
+    "ExpndtrTxs",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "CtrPtiesCountsOfIncm": [],
+  "AvrgIncmAmt": [],
+  "CtrPtiesCountsOfExpndtr": [],
+  "AvrgExpndtrAmt": [],
+  "TxnlStability": [
+    "TxnlStabilityCounts",
+    "TxnlStabilityDtls"
+  ],
+  "TxnlStabilityCounts": [],
+  "TxnlStabilityDtls": [
+    "AbovOneCtrPtiesCountsOfExpndtr",
+    "AbovOneCtrPtiesCountsOfIncm",
+    "AvrgExpndtrAmt",
+    "AvrgIncmAmt",
+    "CcyTp",
+    "ExpndtrTxs",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "AbovOneCtrPtiesCountsOfIncm": [],
+  "AbovOneCtrPtiesCountsOfExpndtr": [],
+  "TxnlTrnvrRate": [
+    "TxnlTrnvrRateCounts",
+    "TxnlTrnvrRateDtls"
+  ],
+  "TxnlTrnvrRateCounts": [],
+  "TxnlTrnvrRateDtls": [
+    "CcyTp",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "TxnlTrend": [
+    "TxnlTrendCounts",
+    "TxnlTrendDtls"
+  ],
+  "TxnlTrendCounts": [],
+  "TxnlTrendDtls": [
+    "AvrgIncmAmt",
+    "AvrgTxsOfIncm",
+    "CcyTp",
+    "Fltg",
+    "MnthsCountsOfExpndtr",
+    "MnthsCountsOfIncm",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "Fltg": [],
+  "MnthsCountsOfIncm": [],
+  "MnthsCountsOfExpndtr": [],
+  "AvrgTxsOfIncm": [],
+  "DvdAmtRgn": [
+    "DvdAmtRgnCounts",
+    "DvdAmtRgnDtls"
+  ],
+  "DvdAmtRgnCounts": [],
+  "DvdAmtRgnDtls": [
+    "AmtRgn",
+    "CcyTp",
+    "ExpndtrContraCounts",
+    "ExpndtrTxs",
+    "IncmAmt",
+    "IncmContraCounts",
+    "IncmTxs",
+    "OcrdTm",
+    "TxTp"
+  ],
+  "AmtRgn": [],
+  "ProductAddtnInfo": [
+    "IsFinAcctClosed",
+    "IsObjct",
+    "IsStmt",
+    "QryID"
+  ],
+  "IsObjct": [],
+  "IsStmt": [],
+  "QryID": [],
+  "IsFinAcctClosed": []
+}

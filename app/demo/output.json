@@ -1,0 +1,1907 @@
+{
+  "Document": {
+    "ProductResults": {
+      "OrgQryID": "D10526580H00012025061800002092",
+      "FbMsg": "02",
+      "OrgCode": "D10526580H0001"
+    },
+    "Product": {
+      "PdctHdr": {
+        "PdctBsicInf": {
+          "InstnTp": "01",
+          "PdctTp": "02",
+          "PdctVrsn": "V1.0",
+          "FormTm": "2025-06-18T18:40:36",
+          "EntCertTp": "01",
+          "ProvideDt": "2025-06-18"
+        }
+      },
+      "BsicInf": {
+        "Id": {
+          "EntNm": "测试联调企业B",
+          "EntId": {
+            "EntIdTp": "01",
+            "EntIdCode": "91110112748809141U"
+          },
+          "FinAcctLSD": "189342"
+        }
+      },
+      "PmtCdtInf": {
+        "DataLabl": "1",
+        "CptlPrfl": {
+          "CptStat": {
+            "CptStatCounts": "13",
+            "CptStatDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年2月",
+                "IncmAmt": "0.00",
+                "IncmTxs": "0",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0",
+                "DalyAvrgOfMnth": "34586.17",
+                "EndofMnth": "34586.17"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "IncmAmt": "33990.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0",
+                "DalyAvrgOfMnth": "6078.42",
+                "EndofMnth": "34586.17"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "IncmAmt": "32308.37",
+                "IncmTxs": "2",
+                "ExpndtrAmt": "86800.00",
+                "ExpndtrTxs": "2",
+                "DalyAvrgOfQrtr": "13499.21",
+                "EndofMnth": "596.17"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "IncmAmt": "96890.45",
+                "IncmTxs": "2",
+                "ExpndtrAmt": "49500.00",
+                "ExpndtrTxs": "1",
+                "DalyAvrgOfQrtr": "11887.40",
+                "EndofMnth": "55087.80"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "IncmAmt": "5609.80",
+                "IncmTxs": "2",
+                "ExpndtrAmt": "49500.00",
+                "ExpndtrTxs": "1",
+                "DalyAvrgOfQrtr": "11340.71",
+                "EndofMnth": "7697.35"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "IncmAmt": "57671.41",
+                "IncmTxs": "5",
+                "ExpndtrAmt": "49000.00",
+                "ExpndtrTxs": "1",
+                "DalyAvrgOfQrtr": "49841.36",
+                "EndofMnth": "51587.55"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "IncmAmt": "146008.63",
+                "IncmTxs": "8",
+                "ExpndtrAmt": "188300.00",
+                "ExpndtrTxs": "4",
+                "DalyAvrgOfQrtr": "49569.23",
+                "EndofMnth": "42916.14"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "IncmAmt": "229468.25",
+                "IncmTxs": "8",
+                "ExpndtrAmt": "147700.00",
+                "ExpndtrTxs": "3",
+                "DalyAvrgOfQrtr": "51896.12",
+                "EndofMnth": "85207.51"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "IncmAmt": "91982.98",
+                "IncmTxs": "10",
+                "ExpndtrAmt": "122169.07",
+                "ExpndtrTxs": "5",
+                "DalyAvrgOfQrtr": "19296.85",
+                "EndofMnth": "3439.26"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "IncmAmt": "142764.85",
+                "IncmTxs": "11",
+                "ExpndtrAmt": "203334.39",
+                "ExpndtrTxs": "12",
+                "DalyAvrgOfQrtr": "33613.28",
+                "EndofMnth": "33625.35"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "IncmAmt": "217355.02",
+                "IncmTxs": "17",
+                "ExpndtrAmt": "132127.00",
+                "ExpndtrTxs": "3",
+                "DalyAvrgOfQrtr": "43756.95",
+                "EndofMnth": "94194.89"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "IncmAmt": "58666.73",
+                "IncmTxs": "6",
+                "ExpndtrAmt": "89600.00",
+                "ExpndtrTxs": "2",
+                "DalyAvrgOfQrtr": "5401.91",
+                "EndofMnth": "8966.87"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "IncmAmt": "25401.22",
+                "IncmTxs": "5",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0",
+                "DalyAvrgOfQrtr": "20876.07",
+                "EndofMnth": "39900.14"
+              }
+            ]
+          },
+          "CptCash": {
+            "CptCashCounts": "13",
+            "CptCashDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年2月",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "WdrwAmt": "0.00",
+                "WdrwTxs": "0",
+                "NetgRate": "0.00"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "0.00",
+                "WdrwTxs": "0",
+                "NetgRate": "0.00"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "86800.00",
+                "WdrwTxs": "2",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-145.60"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "49500.00",
+                "WdrwTxs": "1",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-0.90"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "49500.00",
+                "WdrwTxs": "1",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-6.43"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "49000.00",
+                "WdrwTxs": "1",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-0.95"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "188300.00",
+                "WdrwTxs": "4",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-4.39"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "147700.00",
+                "WdrwTxs": "3",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-1.73"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "120571.00",
+                "WdrwTxs": "3",
+                "WdrwExpndtrRate": "0.99",
+                "NetgRate": "-35.06"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "198500.00",
+                "WdrwTxs": "4",
+                "WdrwExpndtrRate": "0.98",
+                "NetgRate": "-5.90"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "132127.00",
+                "WdrwTxs": "3",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-1.40"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "89600.00",
+                "WdrwTxs": "2",
+                "WdrwExpndtrRate": "1.00",
+                "NetgRate": "-9.99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "DpstAmt": "0.00",
+                "DpstTxs": "0",
+                "DpstIncmRate": "0.00",
+                "WdrwAmt": "0.00",
+                "WdrwTxs": "0",
+                "NetgRate": "0.00"
+              }
+            ]
+          }
+        },
+        "InstnTx": {
+          "InstnTxCounts": "0"
+        },
+        "SameEnTx": {
+          "SameEnTxCounts": "0"
+        },
+        "ThrdPtyTx": {
+          "ThrdPtyTxCounts": "0"
+        },
+        "AgtTx": {
+          "AgtTxCounts": "0"
+        },
+        "IntraAgtTx": {
+          "IntraAgtTxCounts": "23",
+          "IntraAgtTxDtls": [
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年4季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "13.75",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年4季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "86800.00",
+              "ExpndtrTxs": "2"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年3季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "6.57",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年3季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "49500.00",
+              "ExpndtrTxs": "1"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年2季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "14.80",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年2季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "49500.00",
+              "ExpndtrTxs": "1"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年1季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "40.41",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年1季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "49000.00",
+              "ExpndtrTxs": "1"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年4季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "50.79",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年4季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "188300.00",
+              "ExpndtrTxs": "4"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年3季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "38.47",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年3季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "147700.00",
+              "ExpndtrTxs": "3"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年2季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "19.86",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年2季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "120571.00",
+              "ExpndtrTxs": "3"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年2季度",
+              "TxTp": "50",
+              "TradTp": "05",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "4.50",
+              "ExpndtrTxs": "1"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年1季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "35.00",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年1季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "198500.00",
+              "ExpndtrTxs": "4"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年1季度",
+              "TxTp": "50",
+              "TradTp": "05",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "53.68",
+              "ExpndtrTxs": "5"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年4季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "31.05",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年4季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "132127.00",
+              "ExpndtrTxs": "3"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年3季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "7.65",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年3季度",
+              "TxTp": "50",
+              "TradTp": "02",
+              "IncmAmt": "0.00",
+              "IncmTxs": "0",
+              "ExpndtrAmt": "89600.00",
+              "ExpndtrTxs": "2"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年2季度",
+              "TxTp": "50",
+              "TradTp": "01",
+              "IncmAmt": "16.58",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrTxs": "0"
+            }
+          ]
+        },
+        "OthrTx": {
+          "OthrInstnTxCounts": "12",
+          "OthrInstnTxDtls": [
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2025年1月",
+              "TxTp": "99",
+              "IncmAmt": "33990.00",
+              "IncmContraCounts": "1",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年4季度",
+              "TxTp": "99",
+              "IncmAmt": "32294.62",
+              "IncmContraCounts": "1",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年3季度",
+              "TxTp": "99",
+              "IncmAmt": "96883.88",
+              "IncmContraCounts": "1",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年2季度",
+              "TxTp": "99",
+              "IncmAmt": "5595.00",
+              "IncmContraCounts": "1",
+              "IncmTxs": "1",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2024年1季度",
+              "TxTp": "99",
+              "IncmAmt": "57631.00",
+              "IncmContraCounts": "4",
+              "IncmTxs": "4",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年4季度",
+              "TxTp": "99",
+              "IncmAmt": "145957.84",
+              "IncmContraCounts": "6",
+              "IncmTxs": "7",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年3季度",
+              "TxTp": "99",
+              "IncmAmt": "229429.78",
+              "IncmContraCounts": "6",
+              "IncmTxs": "7",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年2季度",
+              "TxTp": "99",
+              "IncmAmt": "91963.12",
+              "IncmContraCounts": "8",
+              "IncmTxs": "9",
+              "ExpndtrAmt": "1593.57",
+              "ExpndtrContraCounts": "1",
+              "ExpndtrTxs": "1"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2023年1季度",
+              "TxTp": "99",
+              "IncmAmt": "142729.85",
+              "IncmContraCounts": "8",
+              "IncmTxs": "10",
+              "ExpndtrAmt": "4780.71",
+              "ExpndtrContraCounts": "1",
+              "ExpndtrTxs": "3"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年4季度",
+              "TxTp": "99",
+              "IncmAmt": "217323.97",
+              "IncmContraCounts": "9",
+              "IncmTxs": "16",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年3季度",
+              "TxTp": "99",
+              "IncmAmt": "58659.08",
+              "IncmContraCounts": "5",
+              "IncmTxs": "5",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            },
+            {
+              "CcyTp": "CNY",
+              "OcrdTm": "2022年2季度",
+              "TxTp": "99",
+              "IncmAmt": "25384.64",
+              "IncmContraCounts": "4",
+              "IncmTxs": "4",
+              "ExpndtrAmt": "0.00",
+              "ExpndtrContraCounts": "0",
+              "ExpndtrTxs": "0"
+            }
+          ],
+          "BiggestAmt": {
+            "BiggestAmtCounts": "12",
+            "BiggestAmtDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "IncmAmt": "33990.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "IncmAmt": "32294.62",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "IncmAmt": "96883.88",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "IncmAmt": "5595.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "IncmAmt": "39417.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "IncmAmt": "37000.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "IncmAmt": "150000.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "IncmAmt": "32571.12",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "1593.57",
+                "ExpndtrTxs": "1"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "IncmAmt": "80467.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "4780.71",
+                "ExpndtrTxs": "3"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "IncmAmt": "53835.80",
+                "IncmTxs": "2",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "IncmAmt": "37908.00",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "IncmAmt": "11118.64",
+                "IncmTxs": "1",
+                "ExpndtrAmt": "0.00",
+                "ExpndtrTxs": "0"
+              }
+            ]
+          },
+          "TxnlCncntrtn": {
+            "TxnlCncntrtnCounts": "12",
+            "TxnlCncntrtnDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "CtrPty": "前10",
+                "IncmTxs": "0",
+                "ExpndtrTxs": "0"
+              }
+            ]
+          },
+          "TxnlDstrbtn": {
+            "TxnlDstrbtnCounts": "12",
+            "TxnlDstrbtnDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "1",
+                "AvrgIncmAmt": "33990.00",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "1",
+                "AvrgIncmAmt": "32294.62",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "1",
+                "AvrgIncmAmt": "96883.88",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "1",
+                "AvrgIncmAmt": "5595.00",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "4",
+                "IncmTxs": "4",
+                "AvrgIncmAmt": "14407.75",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "6",
+                "IncmTxs": "7",
+                "AvrgIncmAmt": "20851.12",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "6",
+                "IncmTxs": "7",
+                "AvrgIncmAmt": "32775.68",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "8",
+                "IncmTxs": "9",
+                "AvrgIncmAmt": "10218.12",
+                "CtrPtiesCountsOfExpndtr": "1",
+                "ExpndtrTxs": "1",
+                "AvrgExpndtrAmt": "1593.57"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "8",
+                "IncmTxs": "10",
+                "AvrgIncmAmt": "14272.99",
+                "CtrPtiesCountsOfExpndtr": "1",
+                "ExpndtrTxs": "3",
+                "AvrgExpndtrAmt": "1593.57"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "9",
+                "IncmTxs": "16",
+                "AvrgIncmAmt": "13582.75",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "5",
+                "IncmTxs": "5",
+                "AvrgIncmAmt": "11731.82",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "CtrPtiesCountsOfIncm": "4",
+                "IncmTxs": "4",
+                "AvrgIncmAmt": "6346.16",
+                "CtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              }
+            ]
+          },
+          "TxnlStability": {
+            "TxnlStabilityCounts": "12",
+            "TxnlStabilityDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "2",
+                "AvrgIncmAmt": "1470.00",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "2",
+                "AvrgIncmAmt": "4254.50",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "1",
+                "IncmTxs": "2",
+                "AvrgIncmAmt": "6297.00",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "2",
+                "IncmTxs": "4",
+                "AvrgIncmAmt": "6366.84",
+                "AbovOneCtrPtiesCountsOfExpndtr": "1",
+                "ExpndtrTxs": "3",
+                "AvrgExpndtrAmt": "1593.57"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "3",
+                "IncmTxs": "10",
+                "AvrgIncmAmt": "11384.95",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "AbovOneCtrPtiesCountsOfIncm": "0",
+                "IncmTxs": "0",
+                "AbovOneCtrPtiesCountsOfExpndtr": "0",
+                "ExpndtrTxs": "0"
+              }
+            ]
+          },
+          "TxnlTrnvrRate": {
+            "TxnlTrnvrRateCounts": "11",
+            "TxnlTrnvrRateDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99"
+              }
+            ]
+          },
+          "TxnlTrend": {
+            "TxnlTrendCounts": "20",
+            "TxnlTrendDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年下半年",
+                "TxTp": "99",
+                "Fltg": "04",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年下半年",
+                "TxTp": "99",
+                "Fltg": "03",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年下半年",
+                "TxTp": "99",
+                "Fltg": "02",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年下半年",
+                "TxTp": "99",
+                "Fltg": "01",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年上半年",
+                "TxTp": "99",
+                "Fltg": "04",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年上半年",
+                "TxTp": "99",
+                "Fltg": "03",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年上半年",
+                "TxTp": "99",
+                "Fltg": "02",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年上半年",
+                "TxTp": "99",
+                "Fltg": "01",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年下半年",
+                "TxTp": "99",
+                "Fltg": "04",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年下半年",
+                "TxTp": "99",
+                "Fltg": "03",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年下半年",
+                "TxTp": "99",
+                "Fltg": "02",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年下半年",
+                "TxTp": "99",
+                "Fltg": "01",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年上半年",
+                "TxTp": "99",
+                "Fltg": "04",
+                "MnthsCountsOfIncm": "1",
+                "AvrgIncmAmt": "13024.82",
+                "AvrgTxsOfIncm": "1.00",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年上半年",
+                "TxTp": "99",
+                "Fltg": "03",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年上半年",
+                "TxTp": "99",
+                "Fltg": "02",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年上半年",
+                "TxTp": "99",
+                "Fltg": "01",
+                "MnthsCountsOfIncm": "3",
+                "AvrgIncmAmt": "6709.75",
+                "AvrgTxsOfIncm": "1.00",
+                "MnthsCountsOfExpndtr": "1"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年下半年",
+                "TxTp": "99",
+                "Fltg": "04",
+                "MnthsCountsOfIncm": "3",
+                "AvrgIncmAmt": "16977.33",
+                "AvrgTxsOfIncm": "1.08",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年下半年",
+                "TxTp": "99",
+                "Fltg": "03",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年下半年",
+                "TxTp": "99",
+                "Fltg": "02",
+                "MnthsCountsOfIncm": "0",
+                "MnthsCountsOfExpndtr": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年下半年",
+                "TxTp": "99",
+                "Fltg": "01",
+                "MnthsCountsOfIncm": "2",
+                "AvrgIncmAmt": "6509.63",
+                "AvrgTxsOfIncm": "1.50",
+                "MnthsCountsOfExpndtr": "0"
+              }
+            ]
+          },
+          "DvdAmtRgn": {
+            "DvdAmtRgnCounts": "48",
+            "DvdAmtRgnDtls": [
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2025年1月",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年4季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年3季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年2季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2024年1季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "8860.00",
+                "IncmContraCounts": "2",
+                "IncmTxs": "3",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年4季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "137097.84",
+                "IncmContraCounts": "4",
+                "IncmTxs": "4",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "79429.78",
+                "IncmContraCounts": "5",
+                "IncmTxs": "6",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年3季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "150000.00",
+                "IncmContraCounts": "1",
+                "IncmTxs": "1",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "18978.00",
+                "IncmContraCounts": "4",
+                "IncmTxs": "4",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "40414.00",
+                "IncmContraCounts": "3",
+                "IncmTxs": "4",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年2季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "32571.12",
+                "IncmContraCounts": "1",
+                "IncmTxs": "1",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "62262.85",
+                "IncmContraCounts": "7",
+                "IncmTxs": "9",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2023年1季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "80467.00",
+                "IncmContraCounts": "1",
+                "IncmTxs": "1",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "19009.00",
+                "IncmContraCounts": "3",
+                "IncmTxs": "3",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "62950.00",
+                "IncmContraCounts": "3",
+                "IncmTxs": "5",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "33201.67",
+                "IncmContraCounts": "1",
+                "IncmTxs": "5",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年4季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "102163.30",
+                "IncmContraCounts": "2",
+                "IncmTxs": "3",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmAmt": "10606.08",
+                "IncmContraCounts": "3",
+                "IncmTxs": "3",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmAmt": "10145.00",
+                "IncmContraCounts": "1",
+                "IncmTxs": "1",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmAmt": "0.00",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年3季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmAmt": "37908.00",
+                "IncmContraCounts": "1",
+                "IncmTxs": "1",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "AmtRgn": "01",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "AmtRgn": "02",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "AmtRgn": "03",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              },
+              {
+                "CcyTp": "CNY",
+                "OcrdTm": "2022年2季度",
+                "TxTp": "99",
+                "AmtRgn": "04",
+                "IncmContraCounts": "0",
+                "IncmTxs": "0",
+                "ExpndtrContraCounts": "0",
+                "ExpndtrTxs": "0"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ProductAddtnInfo": {
+      "IsObjct": "N",
+      "IsStmt": "N",
+      "QryID": "1935286637837606913",
+      "IsFinAcctClosed": "N"
+    }
+  }
+}
